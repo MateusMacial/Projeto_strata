@@ -1,2 +1,2 @@
 # projeto_strata
- segundo projeto Udemy
+Projeto do curso na Udemy.
